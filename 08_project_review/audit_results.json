@@ -1,0 +1,54 @@
+{
+  "rows": 4966986,
+  "users": 49396,
+  "behavior_counts": {
+    "pv": 4447807,
+    "cart": 276306,
+    "fav": 143118,
+    "buy": 99755
+  },
+  "buyers": 33620,
+  "cross_day_repeat_buyers": 18485,
+  "cross_day_repeat_pct": 54.98215348007138,
+  "weekend_comparison": {
+    "pv": {
+      "weekday_daily_mean": 457673.0,
+      "weekend_daily_mean": 539860.5,
+      "growth_pct": 17.957690316011643
+    },
+    "uv": {
+      "weekday_daily_mean": 36097.2,
+      "weekend_daily_mean": 41928.5,
+      "growth_pct": 16.154438571412744
+    },
+    "buy": {
+      "weekday_daily_mean": 10861.4,
+      "weekend_daily_mean": 11362.0,
+      "growth_pct": 4.608982267479345
+    },
+    "buyers": {
+      "weekday_daily_mean": 7152.2,
+      "weekend_daily_mean": 7626.75,
+      "growth_pct": 6.635021392019236
+    }
+  },
+  "hourly_pv_top3": [
+    21,
+    22,
+    20
+  ],
+  "hourly_buy_top3": [
+    21,
+    22,
+    20
+  ],
+  "strict_funnel_user_item_pairs": {
+    "pv": 3528090,
+    "intent_after_pv": 55988,
+    "buy_after_intent": 5123
+  },
+  "existing_daily_export_matches": true,
+  "existing_rolling_retention_counts_match": true,
+  "segment_export_user_sum": 49396,
+  "segment_export_note": "Aggregated counts only; original assignment rules unavailable in project files."
+}
