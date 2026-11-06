@@ -1,0 +1,4 @@
+window,feature_start,decision_date,outcome_end_exclusive,observed_history_users,historical_nonbuyers,intent_eligible_users,future_buyers_in_eligible,total_future_buyers,future_buyers_not_observed_in_history
+validation,2017-11-25,2017-11-28,2017-11-30,46394,30016,17042,4093,12635,682
+test,2017-11-25,2017-11-30,2017-12-02,48918,25554,16504,3519,12614,207
+weekend_robustness,2017-11-25,2017-12-02,2017-12-04,49396,20743,15122,3746,15186,0

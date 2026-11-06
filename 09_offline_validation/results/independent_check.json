@@ -1,0 +1,84 @@
+{
+  "status": "passed",
+  "method": "stdlib CSV streaming independent of Pandas feature/label code",
+  "primary_capacity": 1000,
+  "checked": [
+    {
+      "window": "validation",
+      "rule": "recent_intent",
+      "eligible_users": 17042,
+      "future_buyers": 4093,
+      "selected_hits": 314
+    },
+    {
+      "window": "validation",
+      "rule": "intent_volume",
+      "eligible_users": 17042,
+      "future_buyers": 4093,
+      "selected_hits": 271
+    },
+    {
+      "window": "validation",
+      "rule": "cart_volume",
+      "eligible_users": 17042,
+      "future_buyers": 4093,
+      "selected_hits": 313
+    },
+    {
+      "window": "validation",
+      "rule": "recent_activity",
+      "eligible_users": 17042,
+      "future_buyers": 4093,
+      "selected_hits": 274
+    },
+    {
+      "window": "validation",
+      "rule": "pv_volume",
+      "eligible_users": 17042,
+      "future_buyers": 4093,
+      "selected_hits": 249
+    },
+    {
+      "window": "test",
+      "rule": "recent_intent",
+      "eligible_users": 16504,
+      "future_buyers": 3519,
+      "selected_hits": 281
+    },
+    {
+      "window": "test",
+      "rule": "intent_volume",
+      "eligible_users": 16504,
+      "future_buyers": 3519,
+      "selected_hits": 257
+    },
+    {
+      "window": "test",
+      "rule": "cart_volume",
+      "eligible_users": 16504,
+      "future_buyers": 3519,
+      "selected_hits": 289
+    },
+    {
+      "window": "test",
+      "rule": "recent_activity",
+      "eligible_users": 16504,
+      "future_buyers": 3519,
+      "selected_hits": 273
+    },
+    {
+      "window": "test",
+      "rule": "pv_volume",
+      "eligible_users": 16504,
+      "future_buyers": 3519,
+      "selected_hits": 220
+    },
+    {
+      "window": "weekend_robustness",
+      "rule": "recent_intent",
+      "eligible_users": 15122,
+      "future_buyers": 3746,
+      "selected_hits": 319
+    }
+  ]
+}
